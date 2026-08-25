@@ -153,4 +153,4 @@ Similar to the previous Performance mode on older versions, with a different nam
 
 ## App quick freeze
 
-* Casts a 'freeze' spell the apps from this list - they cannot receive or send notifications and cannot run on the background.
+* Casts a 'freeze' spell the apps from this list - they cannot receive or send notifications and cannot run on the background. videos gets pause in early 1minut 
